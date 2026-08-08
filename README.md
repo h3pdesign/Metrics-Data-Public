@@ -10,7 +10,7 @@ Visit the [product site](https://h3pdesign.github.io/Metrics-Data-Public/).
 
 See the complete [h3pdesign portfolio](https://h3pdesign.github.io/) for all work and projects.
 
-![Metrics Data on iPhone](assets/screenshots/overview-dark.jpg)
+![Metrics Data on iPhone](assets/screenshots/overview-dark.webp)
 
 ## Features
 

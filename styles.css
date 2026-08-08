@@ -70,7 +70,7 @@ blockquote { margin: 0; font-size: clamp(34px, 4.8vw, 64px); font-weight: 850; l
 .split-heading { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: end; }
 .split-heading > p { max-width: 380px; margin: 0 0 5px; color: var(--muted); }
 .gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; align-items: start; }
-.shot { margin: 0; overflow: hidden; background: var(--panel); border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 22px 55px rgba(0,0,0,.18); }
+.shot { margin: 0; overflow: hidden; background: linear-gradient(145deg, rgba(255,255,255,.07), rgba(255,255,255,.02)); border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 22px 55px rgba(0,0,0,.18); }
 .shot img { width: 100%; aspect-ratio: 9 / 19.5; object-fit: cover; object-position: top; }
 .shot figcaption { display: grid; gap: 2px; padding: 15px 16px 17px; }
 .shot figcaption strong { font-size: 15px; }
